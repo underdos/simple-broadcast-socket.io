@@ -30,6 +30,6 @@ setInterval(function(){
 
 
 http.listen(7070, function(){
-  console.log('listening on *:80');
+  console.log('listening on *:7070');
 });
 
